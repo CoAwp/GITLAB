@@ -5,6 +5,11 @@ void main()
   int i;
   do
   {
+	//
+	//
+	//Supernova haha eiei
+	//
+	//	
     printf("What is your name? ");
     scanf("%s", Name);
     do
